@@ -1,0 +1,2 @@
+andrew="dumb"
+print(andrew)
