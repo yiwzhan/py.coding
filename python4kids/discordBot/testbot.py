@@ -1,3 +1,4 @@
+
 import discord
 import math
 from discord.ext import commands
@@ -25,10 +26,10 @@ async def whos_better(ctx):
     await ctx.send(f"Im better than you")
 
 @client.command()
-async def (ctx):
-    await ctx.send()
+async def g(ctx):
+    await ctx.send(" ")
 @client.command()
 async def ad(ctx):
     await ctx.send("andrew")
 
-client.run('NzMxOTY3MzE1NjQ1Njk0MDUz.XwtyRw.myhuBRjZtS2enixcgmxTTIbOtQs')
+client.run('NzMxOTY3MzE1NjQ1Njk0MDUz.Xwz17A.PcEkWF25zVXyRwEENi815FrWEDk')
