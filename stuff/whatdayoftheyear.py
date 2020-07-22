@@ -15,5 +15,5 @@ def wutday(year,month,date):
         day+=md[i]
     day+=date
     return day
-print(wutday(2020,7,17))
+print(wutday(2020,7,20))
 
