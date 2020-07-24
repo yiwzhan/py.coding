@@ -9,7 +9,6 @@ def clrnum(list1):
             list2.append(i)       
     return list2
 
-print("Before function: ", list1)
 print(clrnum(list1))
 
 

@@ -1,5 +1,3 @@
-# l = [1,2,3,4,5,6]
-# print(l[0:1]+l[2: ])
 q=input("please enter an integer: ")
 s=str(q)
 l=[]

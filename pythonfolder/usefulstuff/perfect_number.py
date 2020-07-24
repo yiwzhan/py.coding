@@ -8,9 +8,3 @@ for i in range(1,10000):
         if num % d ==0:
             add_factor+=d
 
-# num =int(input('num= '))
-# reversed_num=0
-# while num>0:
-#     reversed_num=reversed_num*10+num%10
-#     num//=10
-# print(reversed_num)

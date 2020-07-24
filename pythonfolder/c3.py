@@ -4,3 +4,4 @@
 true={'andrew':'dumb','bryan':'smart'}
 print('andrew is',true['andrew'])
 print('bryan is',true['bryan']) 
+       1  3

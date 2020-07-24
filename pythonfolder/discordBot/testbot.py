@@ -47,4 +47,4 @@ async def eightball(ctx):
 # async def m(ctx):
 #     await ctx.send("andrew")
 
-client.run('NzMxOTY3MzE1NjQ1Njk0MDUz.XxSmQg.UbnZwiQEdwwPYgA1sWhMgI4sKt0')
+client.run('NzMxOTY3MzE1NjQ1Njk0MDUz.Xxh8Sw.UX9FLUVH3fd-7ARaLtLJ0o44H-o')
