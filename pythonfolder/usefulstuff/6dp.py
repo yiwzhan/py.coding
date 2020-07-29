@@ -11,5 +11,3 @@ def g6dp():
             passcode.append(letlist[randnum-1])
     print(passcode)        
 g6dp()
-            
-    

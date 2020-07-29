@@ -9,4 +9,4 @@ def prime_number(x):
         else:
             print("it's a prime number")
 
-prime_number() 
+prime_number(9) 

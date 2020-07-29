@@ -6,5 +6,5 @@ def list_sum(list):
         sum = sum + u
     return sum
 
-sum_result = list_sum(lis2)
+sum_result = list_sum(lis1)
 print(sum_result)

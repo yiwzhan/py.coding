@@ -5,5 +5,5 @@ a="ablusfisll"
 # print((a.cou
 # a.decode(encoding = 'UTF-8',errors = 'strict'))
 # i=a.isnumeric()
-i=a.ljust("9"[9, "9"])
-print(i)
+# i=a.ljust("9"[9, "9"])
+# print(i)
